@@ -6,7 +6,7 @@
 }
 :root{
     --primary-color: #b2d4fa;
-    --secundary-color: #b8e3ff;
+    --secundary-color: #e7f2fa;
 }
 body{
     height: 100vh;
@@ -99,7 +99,7 @@ main{
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    width: 500px;
+    width: 400px;
 }
 @media(max-width:960px){
     .container{
